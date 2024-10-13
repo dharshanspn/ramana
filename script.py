@@ -62,7 +62,6 @@ while flag:
 
         telegram_bot_sendtext(f"Password {sub}")
 
-telegram_bot_sendques(login_text)
 telegram_bot_sendtext(login_text)
 
 # Navigate to the authoring page
